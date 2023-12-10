@@ -42,8 +42,8 @@ To replicate the analysis or further develop the models:
 - scikit-learn
 
 ## Authors
-Akshansh Agarwal
-Bhuvaneswari Kavoori
+Akshansh Agarwal, 
+Bhuvaneswari Kavoori,
 Nikhil Gupta
 
 ## Acknowledgments
